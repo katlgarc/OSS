@@ -1,0 +1,5 @@
+Coke,10
+Apple,52
+Chips,2
+Eggs,76
+Chocolate Bar,14
